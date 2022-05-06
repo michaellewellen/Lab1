@@ -10,7 +10,7 @@
   8.  Add and commit the initial project to your repository (git add . and git commit -m 'initial commit').
   9.  In VS Code, open the generated 'Program.cs' file.
   10. Work through the instructions and examples in this tutorial (Links to an external site.). For each step of the tutorial do the following:
-  --      (Links to an external site.)Carefully read the explanations.
-  --      Add the example to your Program.cs file and make any tweaks to make sure that the code runs and gives the desired results from the terminal. (We want to be able to see all of the examples running from the same file when you are done.)
-  --      Commit and push the changes to github (git commit -am 'finished step: 1' and git push).
+  ..*      (Links to an external site.)Carefully read the explanations.
+  ..*      Add the example to your Program.cs file and make any tweaks to make sure that the code runs and gives the desired results from the terminal. (We want to be able to see all of the examples running from the same file when you are done.)
+  ..*      Commit and push the changes to github (git commit -am 'finished step: 1' and git push).
   11. Meet with me to review your work.
